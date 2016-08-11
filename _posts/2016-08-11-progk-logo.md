@@ -5,19 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-11T20:32:10.708Z'
-dateModified: '2016-08-11T20:32:10.062Z'
+datePublished: '2016-08-11T20:33:43.880Z'
+dateModified: '2016-08-11T20:33:39.206Z'
 title: ProgK Logo
 author:
   - name: ''
     url: ''
 via: {}
+sourcePath: _posts/2016-08-11-progk-logo.md
 authors: []
 publisher:
-  name: ''
-  url: ''
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
-sourcePath: _posts/2016-08-11-progk-logo.md
 url: progk-logo/index.html
 _type: Article
 
